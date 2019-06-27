@@ -19,8 +19,8 @@ Here is a list of all the attributes
 
 ## How to run
 
-Libraries needed: numpy, pandas, seaborn, matplotlib
-Running environment: Jupyter Notebook
+Libraries needed: numpy, pandas, seaborn, matplotlib  
+Running environment: Jupyter Notebook  
 Executable files: Univariate_Exploration.ipynb, Bivariate_Exploration.ipynb, 
 Explanatory_Polishing.ipynb, Multivariate_Exploration.ipynb.
 
