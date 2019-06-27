@@ -4,7 +4,8 @@
 
 ## Diamond Dataset
 
-It is a dataset regarding the prices and attributes of approximately 54,000 round-cut diamonds. In this project, I went through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations. 
+It is a dataset regarding the prices and attributes of approximately 54,000 round-cut diamonds. All the data is stored in the `diamonds.csv` file.
+In this project, I went through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations. 
 Here is a list of all the attributes
 
 - price: Price in dollars. Data was collected in 2008.
@@ -16,7 +17,12 @@ Here is a list of all the attributes
 - table: Ratio of width of top face of diamond to its overall width, as a percentage.
 - depth: Proportional depth of diamond, as a percentage. This is computed as 2 * z / (x + y), or the ratio of the depth to the average of length and width.
 
+## How to run
 
+Libraries needed: numpy, pandas, seaborn, matplotlib
+Running environment: Jupyter Notebook
+Executable files: Univariate_Exploration.ipynb, Bivariate_Exploration.ipynb, 
+Explanatory_Polishing.ipynb, Multivariate_Exploration.ipynb.
 
 ## Summary of Findings
 
